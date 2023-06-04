@@ -12,6 +12,8 @@ Recognize text from images with OCR, detect objects with YOLO, and then collect 
 
 --and all trained first in Google Colab, then using command lines to convert model files appropriate for each platform
 
+https://colab.research.google.com/drive/1xCeqd_RTUGaixsbc8c2ctoP3S0MFonPV#scrollTo=TWhA0OFGPoMf
+
 Food..........
 
 ب
