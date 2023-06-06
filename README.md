@@ -1,7 +1,8 @@
 # Baseer  (original) 
 an Application that Assists Blind and Visually-Impaired People Performing   their Daily Tasks 
 
-Medicien 
+
+# Medicien 
 
 Database created using Roboflow
 Recognize text from images with OCR, detect objects with YOLO, and then collect data to train and label them.
@@ -14,6 +15,3 @@ Recognize text from images with OCR, detect objects with YOLO, and then collect 
 
 https://colab.research.google.com/drive/1xCeqd_RTUGaixsbc8c2ctoP3S0MFonPV#scrollTo=TWhA0OFGPoMf
 
-Food..........
-
-ب
