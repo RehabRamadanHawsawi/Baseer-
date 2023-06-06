@@ -13,5 +13,9 @@ Recognize text from images with OCR, detect objects with YOLO, and then collect 
 
 --and all trained first in Google Colab, then using command lines to convert model files appropriate for each platform
 
-https://colab.research.google.com/drive/1xCeqd_RTUGaixsbc8c2ctoP3S0MFonPV#scrollTo=TWhA0OFGPoMf
+#Medicien IMG DB-YOLOv5
+https://colab.research.google.com/drive/1xCeqd_RTUGaixsbc8c2ctoP3S0MFonPV#scrollTo=MDA_2SFAHWhr
+
+#Copy of Baseer Medicien IMG DB-OCR 
+https://colab.research.google.com/drive/11kznL4rUNhwJ762D8mMEuisx6xP_UItD#scrollTo=T0h4cW8TlxOL
 
