@@ -19,3 +19,7 @@ https://colab.research.google.com/drive/1xCeqd_RTUGaixsbc8c2ctoP3S0MFonPV#scroll
 #Copy of Baseer Medicien IMG DB-OCR 
 https://colab.research.google.com/drive/11kznL4rUNhwJ762D8mMEuisx6xP_UItD#scrollTo=T0h4cW8TlxOL
 
+##قخمخ
+##roloflow- Medicien moodel 
+https://universe.roboflow.com/uqu-ndbf1/medicien/model/1
+
