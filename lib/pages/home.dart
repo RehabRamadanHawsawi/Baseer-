@@ -2,12 +2,13 @@
 
 
 
-import 'package:baseer_application_1/pages/color.dart';
-import 'package:baseer_application_1/pages/food.dart';
-import 'package:baseer_application_1/pages/medicine.dart';
-import 'package:baseer_application_1/pages/price.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+
+import 'color.dart';
+import 'food.dart';
+import 'medicine.dart';
+import 'price.dart';
 
 
                    

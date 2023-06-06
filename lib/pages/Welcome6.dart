@@ -1,9 +1,10 @@
 
 // ignore_for_file: file_names
 
-import 'package:baseer_application_1/pages/Welcome7.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+
+import 'Welcome7.dart';
 
 
 class Welcome6 extends StatefulWidget {

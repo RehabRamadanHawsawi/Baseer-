@@ -2,14 +2,12 @@
 //import 'package:baseer_app_qp/Pages/LoginAdmin.dart';
 // ignore: depend_on_referenced_packages
 // ignore_for_file: file_names
-
-//import 'package:baseer_app/pages/home.dart';
-import 'package:baseer_application_1/pages/Welcome2.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' ;
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import 'Welcome2.dart';
 
-//import 'Welcome2.dart';
+
 
 
 
